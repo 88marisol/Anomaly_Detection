@@ -1,0 +1,23 @@
+support,itemsets
+0.01459224682590819,frozenset({'cloexec'})
+0.054604113456109694,frozenset({'cmdline'})
+0.09737497160816017,frozenset({'largefile'})
+0.017120395307118588,frozenset({'lib'})
+0.010257218480422377,frozenset({'locale'})
+0.19806796427031811,frozenset({'o'})
+0.19937143943151425,frozenset({'proc'})
+0.19666529149728135,frozenset({'rdonly'})
+0.055044476686243515,frozenset({'stat'})
+0.05464861331936532,frozenset({'status'})
+0.014953808214860174,frozenset({'usr'})
+0.01358729158071858,"frozenset({'cloexec', 'o'})"
+0.01275106498370656,"frozenset({'rdonly', 'cloexec'})"
+0.054604113456109694,"frozenset({'cmdline', 'proc'})"
+0.09737497160816017,"frozenset({'largefile', 'o'})"
+0.09719419091368417,"frozenset({'largefile', 'rdonly'})"
+0.012256931085472185,"frozenset({'lib', 'usr'})"
+0.19666529149728135,"frozenset({'rdonly', 'o'})"
+0.055044476686243515,"frozenset({'stat', 'proc'})"
+0.05464861331936532,"frozenset({'proc', 'status'})"
+0.01275106498370656,"frozenset({'rdonly', 'cloexec', 'o'})"
+0.09719419091368417,"frozenset({'largefile', 'rdonly', 'o'})"
