@@ -112,4 +112,4 @@ Luego de aplicar las métricas y seleccionar los mejores modelos se toman las ob
 *Adicional: En la carpeta src/app se encuentra un archivo call.py para hacer peticiones a la api rest de api gateway de aws y hacer solicitudes para saber si una observación es anómala*
 
 
-**El archivo con la puntuació final resultado del modelo se encuentra en la carpeta /src con el nombre result.csv, la columna anomaly_final -1 indica que NO hay anomalía, el restante se consideran anomalas siendo 1 y 2 categoría de anomalía fuerte**
+**El archivo con la puntuación final resultado del modelo se encuentra en la carpeta /src con el nombre result.csv, la columna anomaly_final -1 indica que NO hay anomalía, el restante se consideran anomalas siendo 1 y 2 categoría de anomalía fuerte**
